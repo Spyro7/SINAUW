@@ -1,0 +1,19 @@
+@font-face {
+    font-family: IR;
+    src: url('../fonts/Inter-Regular.ttf');
+}
+@font-face {
+    font-family: IM;
+    src: url('../fonts/Inter-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: ISB;
+    src: url('../fonts/Inter-SemiBold.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: IB;
+    src: url('../fonts/Inter-Bold.ttf');
+    font-weight: 700;
+}
